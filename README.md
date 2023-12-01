@@ -12,7 +12,7 @@ Alejandro Daniel Matías Pacheco
 Hello, my name is Daniel Matías, I am a former Mechatronics engineer, passionate about software development, electronics and aerospace. My goal is to develop embedded software projects and apply machine learning and data science in aerospace or biomedical areas. My hobbies are STEM outreach and astrophotography. Currently, I study a master in Artificial Intelligence and I work at GE Aerospace in data science area.
 
 ### Contact
-- Email: danielma.@gmail.com
+- Email: danielma65.@gmail.com
 - LinkedIn: [Alejandro Daniel Matías Pacheco](https://www.linkedin.com/in/daniel-mat-pac/)
 
 ## Data science and embedded programming Portfolio ##
@@ -37,3 +37,8 @@ Implementation of a model to predict which passengers survived to the Titanic ac
 * Python projects automation in Dataiku and using server crontabs. GE Aerospace.
 * Data visualization with Spotfire. GE Aerospace.
 * Server apps containers management. GE Aerospace.
+
+
+
+
+
