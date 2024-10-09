@@ -6,7 +6,7 @@ Alejandro Daniel Matías Pacheco
 
 ### Education
 * Mechatronics Engineer
-* Student of master in Artificial Intelligence
+* MSc in Artificial Intelligence
 
 ### Overview
 Hello, my name is Daniel Matías, I am a former Mechatronics engineer, passionate about software development, electronics and aerospace. My goal is to develop embedded software projects and apply machine learning and data science in aerospace or biomedical areas. My hobbies are STEM outreach and astrophotography. I have finished the master in Artificial Intelligence program, wating to get my degree. Currently, I work at GE Aerospace in Analytics area.
